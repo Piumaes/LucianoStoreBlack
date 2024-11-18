@@ -1,0 +1,162 @@
+[
+  {
+    "cmd": "menu",
+    "usado": 9
+  },
+  {
+    "cmd": "fotobot",
+    "usado": 1
+  },
+  {
+    "cmd": "configurar-bot",
+    "usado": 1
+  },
+  {
+    "cmd": "nota",
+    "usado": 1
+  },
+  {
+    "cmd": "listacomandos",
+    "usado": 3
+  },
+  {
+    "cmd": "menudono",
+    "usado": 6
+  },
+  {
+    "cmd": "linkdogp",
+    "usado": 1
+  },
+  {
+    "cmd": "prefixos",
+    "usado": 2
+  },
+  {
+    "cmd": "ausente",
+    "usado": 2
+  },
+  {
+    "cmd": "servip",
+    "usado": 1
+  },
+  {
+    "cmd": "envglobal",
+    "usado": 1
+  },
+  {
+    "cmd": "tm",
+    "usado": 4
+  },
+  {
+    "cmd": "rgtm",
+    "usado": 5
+  },
+  {
+    "cmd": "rmglobal",
+    "usado": 3
+  },
+  {
+    "cmd": "placa",
+    "usado": 1
+  },
+  {
+    "cmd": "cpf",
+    "usado": 1
+  },
+  {
+    "cmd": "tel",
+    "usado": 1
+  },
+  {
+    "cmd": "email",
+    "usado": 1
+  },
+  {
+    "cmd": "anonovo",
+    "usado": 1
+  },
+  {
+    "cmd": "addprefixo",
+    "usado": 1
+  },
+  {
+    "cmd": "multiprefixo",
+    "usado": 1
+  },
+  {
+    "cmd": "setads",
+    "usado": 8
+  },
+  {
+    "cmd": "addads",
+    "usado": 1
+  },
+  {
+    "cmd": "comandos-termux",
+    "usado": 1
+  },
+  {
+    "cmd": "alugar",
+    "usado": 1
+  },
+  {
+    "cmd": "lucas",
+    "usado": 3
+  },
+  {
+    "cmd": "menuadm",
+    "usado": 2
+  },
+  {
+    "cmd": "trfrmsg",
+    "usado": 1
+  },
+  {
+    "cmd": "gitbot",
+    "usado": 1
+  },
+  {
+    "cmd": "listads",
+    "usado": 12
+  },
+  {
+    "cmd": "pix",
+    "usado": 4
+  },
+  {
+    "cmd": "rmads",
+    "usado": 7
+  },
+  {
+    "cmd": "addmsg",
+    "usado": 4
+  },
+  {
+    "cmd": "listmsg",
+    "usado": 2
+  },
+  {
+    "cmd": "addrandom",
+    "usado": 5
+  },
+  {
+    "cmd": "envrandom",
+    "usado": 4
+  },
+  {
+    "cmd": "envmsg",
+    "usado": 3
+  },
+  {
+    "cmd": "addrent",
+    "usado": 1
+  },
+  {
+    "cmd": "addxp",
+    "usado": 1
+  },
+  {
+    "cmd": "addadsimg",
+    "usado": 3
+  }
+]

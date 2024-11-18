@@ -1,0 +1,29 @@
+[
+  {
+    "groupId": "matheuzinho",
+    "mensagens": []
+  },
+  {
+    "groupId": "5528999811604-1588683234@g.us",
+    "mensagens": [
+      {
+        "msg": "boa garoto",
+        "tempo": "18:10",
+        "dia": "15"
+      }
+    ],
+    "globalAleatory": [
+      "vallllllll",
+      "borrrrrrrrraaaa",
+      "eeeeeeeeeeeee"
+    ],
+    "aleatory": [
+      {
+        "tempo": "17:54",
+        "dia": "00",
+        "ativation": false
+      }
+    ],
+    "module": true
+  }
+]
